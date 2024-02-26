@@ -13,6 +13,7 @@
 
 
 
+
 // let lastName  = "Ahmed"  // declaring a variable and assigned/initialised value to it 
 // lastName = "Abdi" // resignment
 // console.log(lastName) // undefined
